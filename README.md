@@ -90,27 +90,27 @@ You can refer to the following articles on **_basics of Git and Github and also 
 ## Available Projects 
 | S.No. | Name of Project |
 |-------|-----------------|
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
-| 1.    |   xyz           |
+| 1.    |   [3D Login Page](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/3D%20Login%20Page)           |
+| 2.    |   [3D Maze](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/3D%20Maze)          |
+| 3.    |   [Advice Generator](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Advice%20Generator)           |
+| 4.    |  [Air Quality](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Air-Quality)           |
+| 5.    |   [Analog Clock](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Analog%20Clock)           |
+| 6.    |   [Animated Card](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Animated%20Card)           |
+| 7.    |   [Armstrong Checker](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/ArmstrongChecker)           |
+| 8.    |   [Audio-Text Converter](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Audio-Text-Converter)           |
+| 9.    |   [Auto Text Effect Animation](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Auto%20Text%20Effect%20Animation)          |
+| 10.    |   [BMI Calculator](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/BMICalculator)          |
+| 11.    |   [Blog Project Website](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Blog%20Project%20Website)           |
+| 12.    |   [Book Buddy](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Book%20Buddy)           |
+| 13.    |   [Book Case](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Bookcase)          |
+| 14.    |   [Bookmarker App](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Bookmarker_App)           |
+| 15.    |   [Breathe Meditation](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Breathe%20Meditation)           |
+| 15.    |   [cafe Website](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Cafe%20Website)           |
+| 16.    |   [Cafe Landing Page](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/CafeLandingPage)           |
+| 17.    |   [Calculator](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Calculator)           |
+| 18.    |   [Calendar](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Calendar)           |
+| 19.    |   [Captacha Checker](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Captcha%20Checker)           |
+| 20.    |   [cards Component](https://github.com/arcVaishali/Front-End-Projects/tree/projects/Projects/Cards%20Component)           |
 | 1.    |   xyz           |
 | 1.    |   xyz           |
 | 1.    |   xyz           |
