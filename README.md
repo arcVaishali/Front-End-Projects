@@ -101,18 +101,18 @@ You can refer to the following articles on **_basics of Git and Github and also 
 </tr>
 <tr align="center">
 <td align="center"> 1.</td>
-<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Js-Games/2048%20game">2048 Game</a>  </td>
+<td align="center"> <a href="https://github.com/arcVaishali/Front-End-Projects/tree/main/Projects/3D%20Login%20Page">3D Login Page</a>  </td>
 <td align="center"> 2.</td>
-<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Navbars/3d_navbar_animations">3d Navbar Animations</a></td>
+<td align="center"> <a href="https://github.com/arcVaishali/Front-End-Projects/tree/main/Projects/3D%20Maze">3d Maze</a></td>
 <td align="center"> 3.</td>
-<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/blob/main/Python%20Projects/AI%20Calculator.py">AI Calculator</a></td>
+<td align="center"> <a href="https://github.com/arcVaishali/Front-End-Projects/tree/main/Projects/Advice%20Generator">Advice Generator</a></td>
 <td align="center"> 4.</td>
-<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/AngularJS%20Projects/angular-route">Angular-route</a></td>
+<td align="center"> <a href="https://github.com/arcVaishali/Front-End-Projects/tree/main/Projects/Air-Quality">Air Quality</a></td>
 </tr>
 
 <tr align="center">
 <td align="center"> 5.</td>
-<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Navbars/animated_navbar">animated_navbar</a>  </td>
+<td align="center"> <a href="https://github.com/arcVaishali/Front-End-Projects/tree/main/Projects/Air-Quality">animated_navbar</a>  </td>
 <td align="center"> 6.</td>
 <td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Animations-JS">Animations-JS</a></td>
 <td align="center"> 7.</td>
